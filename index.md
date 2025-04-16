@@ -2,4 +2,4 @@
 Placeholder blep :p
 
 # Content.
-[Fox 'n' Poppies](FxP)
+[Fox 'n' Poppies](FnP)
