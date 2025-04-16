@@ -5,12 +5,8 @@ courtesy of Stacked for having github integration. I can edit directly in my git
 
 Anyway, enough about that.
 
-## About Me.
-
-### How I began:
-I began a
 # Content.
 [Fox 'n' Poppies](FnP)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzYzNDM1MzU5XX0=
+eyJoaXN0b3J5IjpbLTE4NjMzNDQyMDJdfQ==
 -->
