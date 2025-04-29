@@ -5,7 +5,7 @@
 # Definition
 
 > Furry:
-> An enthusiast for animal characters with human characteristics, in particular a person who: dresses up in a Fursuit;
+> An enthusiast for animal characters with human characteristics, in particular a person who: dresses up in a Fursuit; draw characters or a Fursona; game develepors or nerds in IT.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDE0NjQxNCwzODE2NTA0MzddfQ==
+eyJoaXN0b3J5IjpbLTU1NjA2MTk5NSwzODE2NTA0MzddfQ==
 -->
