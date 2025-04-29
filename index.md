@@ -1,13 +1,10 @@
 # Home page.
-Hi!
-This is the main page of this website that is made **entirely** out of markdown files.
-courtesy of Stacked for having github integration. I can edit directly in my github repo.
-
-Anyway, enough about that.
+Hello! This page was made with MarkDown files! :D
+So welcome to my website!
 
 # Content.
 [Fox 'n' Poppies](Content/FnP)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTU0NzI1MTIsLTE4NjMzNDQyMDJdfQ
-==
+eyJoaXN0b3J5IjpbMTkyMTAwNjI5NywtMTY5NTQ3MjUxMiwtMT
+g2MzM0NDIwMl19
 -->
