@@ -3,7 +3,7 @@
 *[anthro]: Short hand of Anthropomorthic
 *[Fursona]: A Furry Persona or mascot
 *[YIFF]: NSFW
-*[Therian]: 
+*[Therian]: A non-human identity | A person who identifies as a non-human  being, typically an animal, which might be a wolf, bear or a cat.
 # Definition
 
 > Furry:
@@ -17,6 +17,6 @@ Not everyone draws/consumes YIFF.
 And lastly: Not everyone acts/barks like an animal. That's *mostly* Therians
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc1ODM4MDc2LC01NTYwNjE5OTUsMzgxNj
-UwNDM3XX0=
+eyJoaXN0b3J5IjpbLTE4NzMyOTA3NjcsLTU1NjA2MTk5NSwzOD
+E2NTA0MzddfQ==
 -->
