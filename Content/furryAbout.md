@@ -3,6 +3,7 @@
 *[anthro]: Short hand of Anthropomorthic
 *[Fursona]: A Furry Persona or mascot
 *[YIFF]: NSFW
+*[Therian]: 
 # Definition
 
 > Furry:
@@ -11,11 +12,11 @@
 # Misconceptions
 No, furries are not zoophiles. 
 They do not feel an attraction to animals. 
-They do not believe they are animals and lastly: 
-not everyone draws/consumes YIFF.
-
+They do not believe they are animals
+Not everyone draws/consumes YIFF.
+And lastly: Not everyone acts/barks like an animal. That's *mostly* Therians
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzc4NzU4MDEsLTU1NjA2MTk5NSwzOD
-E2NTA0MzddfQ==
+eyJoaXN0b3J5IjpbNTc1ODM4MDc2LC01NTYwNjE5OTUsMzgxNj
+UwNDM3XX0=
 -->
