@@ -6,7 +6,8 @@ courtesy of Stacked for having github integration. I can edit directly in my git
 Anyway, enough about that.
 
 # Content.
-[Fox 'n' Poppies](FnP)
+[Fox 'n' Poppies](Content/FnP)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjMzNDQyMDJdfQ==
+eyJoaXN0b3J5IjpbLTE2OTU0NzI1MTIsLTE4NjMzNDQyMDJdfQ
+==
 -->
