@@ -137,7 +137,7 @@ Is the poppies he rests beside.
 Are monsters always vile?
 
 ---
-[Home](index)
+[Home](../index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3MTI2NDc5Ml19
+eyJoaXN0b3J5IjpbNTM3NzQwMzE5LDEzNzEyNjQ3OTJdfQ==
 -->
