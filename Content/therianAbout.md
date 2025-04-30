@@ -8,11 +8,13 @@
 
 *[OCKin]: Someone who feels a connection with an original character.
 
-*[Otherhearted]: Someone
+*[Otherhearted]: A person who feels a strong, fundamental connection to a species or being, but does not identify as that being.
+
+*[
 
 [Other Terms]: #
 *[Theriotype]: The animal/creature/character a Therian/Otherkin/OCKin etc identifies as.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2NjM3OTk3XX0=
+eyJoaXN0b3J5IjpbLTE5NzEyODU4NzNdfQ==
 -->
