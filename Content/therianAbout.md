@@ -10,11 +10,14 @@
 
 *[Otherhearted]: A person who feels a strong, fundamental connection to a species or being, but does not identify as that being.
 
-*[
-
 [Other Terms]: #
 *[Theriotype]: The animal/creature/character a Therian/Otherkin/OCKin etc identifies as.
+*[OC]: Original Character.
 
+
+[Main]: #
+# About Therians
+A Therian is someone who feels a deep connection to an animal, Otherkin is someone who 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzEyODU4NzNdfQ==
+eyJoaXN0b3J5IjpbLTQzOTA2NDEzMF19
 -->
