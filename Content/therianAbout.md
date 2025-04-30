@@ -32,6 +32,11 @@ Therians do NOT **BELIEVE** they are an animal (neither are furries) and they do
 
 **<u>COMMUNICATION IS KEY<u>**
 You need to communicate the person's feelings to better understand them. Each Therian (used as an umbrella term in this context) is different. Some may want to wear a collar, some may want to be *walked*; it all depends on what the person wants, and you should be caring enough to provide for it.
+
+
+## Resources
+[Therian Guide](https://therianguide.com/otherpaw-otherlink-otherkin-and-otherhearted/) platforms like [Reddit](https://www.reddit.com/r/Therian/comments/17xb6qo/difference_between_otherkin_and_otherhearted/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTkyNDQ4MjFdfQ==
+eyJoaXN0b3J5IjpbLTE3NjU1MzUyMzgsLTIxMTkyNDQ4MjFdfQ
+==
 -->
