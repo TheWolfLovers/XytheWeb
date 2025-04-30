@@ -25,8 +25,8 @@ A Therian/Otherkin/etc want to be left to explore who they are. If you oppress t
 
 A Therian/Otherkin etc is a Non-human identity, which means a person who identifies as a non-human animal, either spiritually, psychologically, or both! 
 
-Therians do NOT **BELIEVE** they are an animal (neither are furries) and they don't want to be treated *harshly* as an animal. But they *<u>may<u>* want to
+Therians do NOT **BELIEVE** they are an animal (neither are furries) and they don't want to be treated *harshly* as an animal. But they *<u>may<u>* want to be treated as an animal. I'm writing this article with guess work and *doing my research*, which should be a top priority when dealing with a non-human person. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxNDEyNzU1Ml19
+eyJoaXN0b3J5IjpbLTEzMzYzMDkzODFdfQ==
 -->
