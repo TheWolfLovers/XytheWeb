@@ -31,7 +31,7 @@ A Therian/Otherkin etc is a Non-human identity, which means a person who identif
 Therians do NOT **BELIEVE** they are an animal (neither are furries) and they don't want to be treated *harshly* as an animal. But they *<u>may<u>* want to be treated as an animal. I'm writing this article with guess work and *doing my research*, which should be a top priority when dealing with a non-human person. You need to ask your child/the adult what they would want (it may be an awkward conversation) and build an understanding that way. Also, talk to them about how they feel; they need to feel cared for, unless if they don't want to talk about it that is. Again, article written on guess work.
 
 **<u>COMMUNICATION IS KEY<u>**
-You need to communicate the person's feelings to better understand them. Each Therian (used as an umbrella term in this context) is different. Some may want to wear a collar, some may want to be *walked*,
+You need to communicate the person's feelings to better understand them. Each Therian (used as an umbrella term in this context) is different. Some may want to wear a collar, some may want to be *walked*; it all depends on what the person wants, and 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzMDY1MzAyMV19
+eyJoaXN0b3J5IjpbLTEyOTI3ODExODJdfQ==
 -->
