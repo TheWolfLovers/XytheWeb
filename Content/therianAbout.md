@@ -17,7 +17,9 @@
 
 [Main]: #
 # About Therians
-A Therian is someone who feels a deep connection to an animal, Otherkin is someone who 
+A Therian is someone who feels a deep connection to an animal, Otherkin is someone who feels a deep connection to, but not limited to, mythical creatures or aliens. Sort of like a Therian but for creatures that aren't existing animal in a way.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzOTA2NDEzMF19
+eyJoaXN0b3J5IjpbLTE4NTI0NTI3NzRdfQ==
 -->
