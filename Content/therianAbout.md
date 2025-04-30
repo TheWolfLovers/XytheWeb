@@ -21,8 +21,10 @@ A Therian is someone who feels a deep connection to an animal, Otherkin is someo
 
 # Things to know 
 ## [ Will be edited later ]
-A Therian/Otherkin/etc want to be left to explore who they are. If you oppress them from exploring their identity then you're risking having 
+A Therian/Otherkin/etc want to be left to explore who they are. If you oppress them from exploring their identity then you're risking having a bad relationship with your child; adults could also be a Therian, it's not limited to teenagers.
+
+A Therian/Otherkin etc is a Non-human identity, which means t
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTQ4NDE3MDFdfQ==
+eyJoaXN0b3J5IjpbMTc1MjE0MDI0Ml19
 -->
