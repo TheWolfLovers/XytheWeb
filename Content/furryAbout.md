@@ -23,9 +23,9 @@ An enthusiast for animal characters with human characteristics, in particular a 
 Furries tend to go to a thing called FurCon or also known as a Furry Convention.
 
 ---
-Most furries have different interests: music, art, Fursuiting, play games, *cars*, writing stories and game development (or coding or even ICT in general)
+Most furries have different interests but not limited to: music, art, Fursuiting, play games, *cars*, writing stories and game development (or coding or even ICT in general). 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzQ3MDkwMDcsMTI4MDU0ODMxOCwxMD
-Y4MTE1NTQ4LC05NjIxOTc1Nyw3MDQ1MDUwNzIsLTU1NjA2MTk5
-NSwzODE2NTA0MzddfQ==
+eyJoaXN0b3J5IjpbOTE5NjQ3MjM2LC0xNDc0NzA5MDA3LDEyOD
+A1NDgzMTgsMTA2ODExNTU0OCwtOTYyMTk3NTcsNzA0NTA1MDcy
+LC01NTYwNjE5OTUsMzgxNjUwNDM3XX0=
 -->
